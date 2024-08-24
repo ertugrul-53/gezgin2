@@ -1,0 +1,453 @@
+{
+    "Sehirler":
+    [
+        {
+            "name": "Rize",
+            "bacground": "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/6-11.jpg",
+            "yerler":
+            [
+                {
+                    "name": "Ayder",
+                    "backround": "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/ayder/panoramic-view-mountain-houses-ayder-260nw-146891807.jpg",
+                    "isVisible": true,
+                    "hakkında": "güzel",
+                    "resimler":
+                    [
+                        "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/ayder/resim1.jpg",
+                        "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/ayder/resim2.jpg",
+                        "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/ayder/resim3.jpg",
+                        "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/ayder/resim4.jpeg"
+                    ],
+                    "oteller":
+                    [
+                        {
+                            "name": "otel a",
+                            "backround": "resim ",
+                            "resimler":
+                            [
+                                "resim1",
+                                "resim2"
+                            ]
+                        }
+                    ],
+                    "restoranlar":
+                    [
+                        {
+                            "name": "restoran1 ",
+                            "backround": "url1",
+                            "resimler":
+                            [
+                                "resim1",
+                                "resim2"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Kızkalesi",
+                    "backround": "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/rize%20k%C4%B1z%20kalesi/br.jpg",
+                    "isVisible": true,
+                    "hakkında": "güzel",
+                    "resimler":
+                    [
+                        "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/rize%20k%C4%B1z%20kalesi/resim1.jpg",
+                        "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/rize%20k%C4%B1z%20kalesi/resim2.jpg",
+                        "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/rize%20k%C4%B1z%20kalesi/resim3.jpg",
+                        "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/rize%20k%C4%B1z%20kalesi/resim4.jpg"
+                    ],
+                    "oteller":
+                    [
+                        {
+                            "name": "otel a",
+                            "backround": "resim ",
+                            "resimler":
+                            [
+                                "resim1",
+                                "resim2"
+                            ]
+                        }
+                    ],
+                    "restoranlar":
+                    [
+                        {
+                            "name": "restoran1 ",
+                            "backround": "url1",
+                            "resimler":
+                            [
+                                "resim1",
+                                "resim2"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Kıbledağı Cami",
+                    "backroundUrl": "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/K%C4%B1bleda%C4%9F%C4%B1%20camii/k%C4%B1bleda%C4%9F%C4%B1%20cami%20br.jpg",
+                    "isVisible": true,
+                    "hakkında": "güzel",
+                    "resimler":
+                    [
+                        "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/K%C4%B1bleda%C4%9F%C4%B1%20camii/resim1.jpg",
+                        "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/K%C4%B1bleda%C4%9F%C4%B1%20camii/resim2.jpg",
+                        "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/K%C4%B1bleda%C4%9F%C4%B1%20camii/resim3.jpg"
+                    ],
+                    "oteller":
+                    [
+                        {
+                            "name": "otel a",
+                            "backround": "resim ",
+                            "resimler":
+                            [
+                                "resim1",
+                                "resim2"
+                            ]
+                        }
+                    ],
+                    "restoranlar":
+                    [
+                        {
+                            "name": "restoran1 ",
+                            "backround": "url1",
+                            "resiler":
+                            [
+                                "resim1",
+                                "resim2"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Ayder",
+                    "backroundUrl": "url",
+                    "isVisible": true,
+                    "hakkında": "güzel",
+                    "resimler":
+                    [
+                        "url1",
+                        "url2",
+                        "url3"
+                    ],
+                    "oteller":
+                    [
+                        {
+                            "name": "otel a",
+                            "backround": "resim ",
+                            "resimler":
+                            [
+                                "resim1",
+                                "resim2"
+                            ]
+                        }
+                    ],
+                    "restoranlar":
+                    [
+                        {
+                            "name": "restoran1 ",
+                            "backround": "url1",
+                            "resiler":
+                            [
+                                "resim1",
+                                "resim2"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Ayder",
+                    "backroundUrl": "url",
+                    "isVisible": true,
+                    "hakkında": "güzel",
+                    "resimler":
+                    [
+                        "url1",
+                        "url2",
+                        "url3"
+                    ],
+                    "oteller":
+                    [
+                        {
+                            "name": "otel a",
+                            "backround": "resim ",
+                            "resimler":
+                            [
+                                "resim1",
+                                "resim2"
+                            ]
+                        }
+                    ],
+                    "restoranlar":
+                    [
+                        {
+                            "name": "restoran1 ",
+                            "backround": "url1",
+                            "resiler":
+                            [
+                                "resim1",
+                                "resim2"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Ayder",
+                    "backroundUrl": "url",
+                    "isVisible": true,
+                    "hakkında": "güzel",
+                    "resimler":
+                    [
+                        "url1",
+                        "url2",
+                        "url3"
+                    ],
+                    "oteller":
+                    [
+                        {
+                            "name": "otel a",
+                            "backround": "resim ",
+                            "resimler":
+                            [
+                                "resim1",
+                                "resim2"
+                            ]
+                        }
+                    ],
+                    "restoranlar":
+                    [
+                        {
+                            "name": "restoran1 ",
+                            "backround": "url1",
+                            "resiler":
+                            [
+                                "resim1",
+                                "resim2"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Rize",
+            "bacgroundUrl1": "url1",
+            "yerler":
+            [
+                {
+                    "name": "Ayder",
+                    "backroundUrl": "url",
+                    "isVisible": true,
+                    "hakkında": "güzel",
+                    "resimler":
+                    [
+                        "url1",
+                        "url2",
+                        "url3"
+                    ],
+                    "oteller":
+                    [
+                        {
+                            "name": "otel a",
+                            "backround": "resim ",
+                            "resimler":
+                            [
+                                "resim1",
+                                "resim2"
+                            ]
+                        }
+                    ],
+                    "restoranlar":
+                    [
+                        {
+                            "name": "restoran1 ",
+                            "backround": "url1",
+                            "resiler":
+                            [
+                                "resim1",
+                                "resim2"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Kızkalesi",
+                    "backroundUrl": "url",
+                    "isVisible": true,
+                    "hakkında": "güzel",
+                    "resimler":
+                    [
+                        "url1",
+                        "url2",
+                        "url3"
+                    ],
+                    "oteller":
+                    [
+                        {
+                            "name": "otel a",
+                            "backround": "resim ",
+                            "resimler":
+                            [
+                                "resim1",
+                                "resim2"
+                            ]
+                        }
+                    ],
+                    "restoranlar":
+                    [
+                        {
+                            "name": "restoran1 ",
+                            "backround": "url1",
+                            "resiler":
+                            [
+                                "resim1",
+                                "resim2"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Ayder",
+                    "backroundUrl": "url",
+                    "isVisible": true,
+                    "hakkında": "güzel",
+                    "resimler":
+                    [
+                        "url1",
+                        "url2",
+                        "url3"
+                    ],
+                    "oteller":
+                    [
+                        {
+                            "name": "otel a",
+                            "backround": "resim ",
+                            "resimler":
+                            [
+                                "resim1",
+                                "resim2"
+                            ]
+                        }
+                    ],
+                    "restoranlar":
+                    [
+                        {
+                            "name": "restoran1 ",
+                            "backround": "url1",
+                            "resiler":
+                            [
+                                "resim1",
+                                "resim2"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Ayder",
+                    "backroundUrl": "url",
+                    "isVisible": true,
+                    "hakkında": "güzel",
+                    "resimler":
+                    [
+                        "url1",
+                        "url2",
+                        "url3"
+                    ],
+                    "oteller":
+                    [
+                        {
+                            "name": "otel a",
+                            "backround": "resim ",
+                            "resimler":
+                            [
+                                "resim1",
+                                "resim2"
+                            ]
+                        }
+                    ],
+                    "restoranlar":
+                    [
+                        {
+                            "name": "restoran1 ",
+                            "backround": "url1",
+                            "resiler":
+                            [
+                                "resim1",
+                                "resim2"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Ayder",
+                    "backroundUrl": "url",
+                    "isVisible": true,
+                    "hakkında": "güzel",
+                    "resimler":
+                    [
+                        "url1",
+                        "url2",
+                        "url3"
+                    ],
+                    "oteller":
+                    [
+                        {
+                            "name": "otel a",
+                            "backround": "resim ",
+                            "resimler":
+                            [
+                                "resim1",
+                                "resim2"
+                            ]
+                        }
+                    ],
+                    "restoranlar":
+                    [
+                        {
+                            "name": "restoran1 ",
+                            "backround": "url1",
+                            "resiler":
+                            [
+                                "resim1",
+                                "resim2"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Ayder",
+                    "backroundUrl": "url",
+                    "isVisible": true,
+                    "hakkında": "güzel",
+                    "resimler":
+                    [
+                        "url1",
+                        "url2",
+                        "url3"
+                    ],
+                    "oteller":
+                    [
+                        {
+                            "name": "otel a",
+                            "backround": "resim ",
+                            "resimler":
+                            [
+                                "resim1",
+                                "resim2"
+                            ]
+                        }
+                    ],
+                    "restoranlar":
+                    [
+                        {
+                            "name": "restoran1 ",
+                            "backround": "url1",
+                            "resiler":
+                            [
+                                "resim1",
+                                "resim2"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
