@@ -57,11 +57,11 @@
                     [
                         {
                             "name": "restoran1 ",
-                            "background": "url1",
+                            "background": "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/ayder/oteller/Ayder%20Alt%C4%B1parmak%20Suitklas%C3%B6r/br.jpg",
                             "resimler":
                             [
-                                "resim1",
-                                "resim2"
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/ayder/oteller/Ayder%20Alt%C4%B1parmak%20Suitklas%C3%B6r/resim1.jpg",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/ayder/oteller/Ayder%20Alt%C4%B1parmak%20Suitklas%C3%B6r/resim2.jpgS"
                             ]
                         }
                     ]
