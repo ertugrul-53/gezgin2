@@ -21,7 +21,21 @@
                     "oteller":
                     [
                         {
-                            "name": "otel a",
+                            "name": "Ayder Altıparmak Suit",
+                            "background": "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/ayder/oteller/Ayder%20Alt%C4%B1parmak%20Suitklas%C3%B6r/br.jpg",
+                            "resimler":
+                            [
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/ayder/oteller/Ayder%20Alt%C4%B1parmak%20Suitklas%C3%B6r/resim1.jpg",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/ayder/oteller/Ayder%20Alt%C4%B1parmak%20Suitklas%C3%B6r/resim2.jpg",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/ayder/oteller/Ayder%20Alt%C4%B1parmak%20Suitklas%C3%B6r/resim3.jpg",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/ayder/oteller/Ayder%20Alt%C4%B1parmak%20Suitklas%C3%B6r/resim4%20(2).jpg",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/ayder/oteller/Ayder%20Alt%C4%B1parmak%20Suitklas%C3%B6r/resim4.jpg",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/ayder/oteller/Ayder%20Alt%C4%B1parmak%20Suitklas%C3%B6r/resim5.jpg",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/ayder/oteller/Ayder%20Alt%C4%B1parmak%20Suitklas%C3%B6r/resim6.jpg"
+                            ]
+                        },
+                        {
+                            "name": "Ayder Cise Dag Evleri",
                             "background": "resim ",
                             "resimler":
                             [
