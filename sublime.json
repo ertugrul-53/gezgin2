@@ -63,17 +63,54 @@
                             "background": "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/ayder/oteller/Ayder%20Koru%20Otel/br.jpg",
                             "resimler":
                             [
-                                "resim1",
-                                "resim2"
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/ayder/oteller/Ayder%20Koru%20Otel/resim1.jpg",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/ayder/oteller/Ayder%20Koru%20Otel/resim2.jpg",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/ayder/oteller/Ayder%20Koru%20Otel/resim3.jpg",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/ayder/oteller/Ayder%20Koru%20Otel/resim4.jpg",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/ayder/oteller/Ayder%20Koru%20Otel/resim5.jpg",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/ayder/oteller/Ayder%20Koru%20Otel/resim6.jpg"
                             ]
                         },
                         {
-                            "name": "otel a",
-                            "background": "resim ",
+                            "name": "Ayder Palazzo Resort Hotel",
+                            "background": "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/ayder/oteller/Ayder%20Palazzo%20Resort%20Hotel/br.png",
                             "resimler":
                             [
-                                "resim1",
-                                "resim2"
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/ayder/oteller/Ayder%20Palazzo%20Resort%20Hotel/1.jpg",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/ayder/oteller/Ayder%20Palazzo%20Resort%20Hotel/2.jpg",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/ayder/oteller/Ayder%20Palazzo%20Resort%20Hotel/3.jpg",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/ayder/oteller/Ayder%20Palazzo%20Resort%20Hotel/4.jpg",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/ayder/oteller/Ayder%20Palazzo%20Resort%20Hotel/5.jpg",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/ayder/oteller/Ayder%20Palazzo%20Resort%20Hotel/6.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/ayder/oteller/Ayder%20Palazzo%20Resort%20Hotel/8.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/ayder/oteller/Ayder%20Palazzo%20Resort%20Hotel/9.png"
+                            ]
+                        },
+                        {
+                            "name": "Ayder Villa Gencal",
+                            "background": "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/ayder/oteller/Ayder%20Villa%20Gencal/br.jpeg",
+                            "resimler":
+                            [
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/ayder/oteller/Ayder%20Villa%20Gencal/1.jpeg",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/ayder/oteller/Ayder%20Villa%20Gencal/2.jpeg",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/ayder/oteller/Ayder%20Villa%20Gencal/3.jpeg",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/ayder/oteller/Ayder%20Villa%20Gencal/4.jpeg",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/ayder/oteller/Ayder%20Villa%20Gencal/5.jpeg",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/ayder/oteller/Ayder%20Villa%20Gencal/6.jpeg",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/ayder/oteller/Ayder%20Villa%20Gencal/8.jpeg"
+                            ]
+                        },
+                        {
+                            "name": "Kervansaray Deluxe Otel",
+                            "background": "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/ayder/oteller/Kervansaray%20Deluxe%20Otel/br.jpg",
+                            "resimler":
+                            [
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/ayder/oteller/Kervansaray%20Deluxe%20Otel/1.jpeg",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/ayder/oteller/Kervansaray%20Deluxe%20Otel/2.jpeg",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/ayder/oteller/Kervansaray%20Deluxe%20Otel/3.jpeg",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/ayder/oteller/Kervansaray%20Deluxe%20Otel/4.jpeg",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/ayder/oteller/Kervansaray%20Deluxe%20Otel/5.jpeg",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/ayder/oteller/Kervansaray%20Deluxe%20Otel/6.jpeg"
                             ]
                         }
                     ],
