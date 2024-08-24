@@ -36,7 +36,31 @@
                         },
                         {
                             "name": "Ayder Cise Dag Evleri",
-                            "background": "resim ",
+                            "background": "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/ayder/oteller/Ayder%20Cise%20Dag%20Evleri/br.jpg",
+                            "resimler":
+                            [
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/ayder/oteller/Ayder%20Cise%20Dag%20Evleri/resim1.jpg",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/ayder/oteller/Ayder%20Cise%20Dag%20Evleri/resim2.jpg",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/ayder/oteller/Ayder%20Cise%20Dag%20Evleri/resim3.jpg",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/ayder/oteller/Ayder%20Cise%20Dag%20Evleri/resim4.jpg",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/ayder/oteller/Ayder%20Cise%20Dag%20Evleri/resim5.jpeg"
+                            ]
+                        },
+                        {
+                            "name": "Ayder Elif Suit Apart",
+                            "background": "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/ayder/oteller/Ayder%20Elif%20Suit%20Apart/br.jpg",
+                            "resimler":
+                            [
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/ayder/oteller/Ayder%20Elif%20Suit%20Apart/br.jpg",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/ayder/oteller/Ayder%20Elif%20Suit%20Apart/resim2.jpg",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/ayder/oteller/Ayder%20Elif%20Suit%20Apart/resim3.jpg",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/ayder/oteller/Ayder%20Elif%20Suit%20Apart/resim4.jpg",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/ayder/oteller/Ayder%20Elif%20Suit%20Apart/resim5.jpeg"
+                            ]
+                        },
+                        {
+                            "name": "Ayder Koru Otel",
+                            "background": "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/ayder/oteller/Ayder%20Koru%20Otel/br.jpg",
                             "resimler":
                             [
                                 "resim1",
