@@ -117,12 +117,79 @@
                     "restoranlar":
                     [
                         {
-                            "name": "restoran1 ",
-                            "background": "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/ayder/oteller/Ayder%20Alt%C4%B1parmak%20Suitklas%C3%B6r/br.jpg",
+                            "name": "Ayder Burger",
+                            "background": "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/ayder/Restoranlar/Ayder%20Burger/br.jpg",
                             "resimler":
                             [
-                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/ayder/oteller/Ayder%20Alt%C4%B1parmak%20Suitklas%C3%B6r/resim1.jpg",
-                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/ayder/oteller/Ayder%20Alt%C4%B1parmak%20Suitklas%C3%B6r/resim2.jpgS"
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/ayder/Restoranlar/Ayder%20Burger/2.jpg",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/ayder/Restoranlar/Ayder%20Burger/3.jpg",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/ayder/Restoranlar/Ayder%20Burger/4.jpg",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/ayder/Restoranlar/Ayder%20Burger/5.jpg"
+                            ]
+                        },
+                        {
+                            "name": "Ayder Eylül Restaurant",
+                            "background": "BR",
+                            "resimler":
+                            [
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/ayder/Restoranlar/Ayder%20Eyl%C3%BCl%20Restaurant/1.jpeg",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/ayder/Restoranlar/Ayder%20Eyl%C3%BCl%20Restaurant/10.jpeg",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/ayder/Restoranlar/Ayder%20Eyl%C3%BCl%20Restaurant/11.jpeg",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/ayder/Restoranlar/Ayder%20Eyl%C3%BCl%20Restaurant/12.jpeg",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/ayder/Restoranlar/Ayder%20Eyl%C3%BCl%20Restaurant/2.jpeg",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/ayder/Restoranlar/Ayder%20Eyl%C3%BCl%20Restaurant/3.jpeg",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/ayder/Restoranlar/Ayder%20Eyl%C3%BCl%20Restaurant/4.jpeg",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/ayder/Restoranlar/Ayder%20Eyl%C3%BCl%20Restaurant/5.jpeg",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/ayder/Restoranlar/Ayder%20Eyl%C3%BCl%20Restaurant/6.jpeg",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/ayder/Restoranlar/Ayder%20Eyl%C3%BCl%20Restaurant/7.jpeg",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/ayder/Restoranlar/Ayder%20Eyl%C3%BCl%20Restaurant/8.jpeg",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/ayder/Restoranlar/Ayder%20Eyl%C3%BCl%20Restaurant/9.jpeg"
+                            ]
+                        },
+                        {
+                            "name": "Cafe Sasuk",
+                            "background": "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/ayder/Restoranlar/Cafe%20Sasuk/7.jpeg",
+                            "resimler":
+                            [
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/ayder/Restoranlar/Cafe%20Sasuk/1.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/ayder/Restoranlar/Cafe%20Sasuk/2.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/ayder/Restoranlar/Cafe%20Sasuk/3.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/ayder/Restoranlar/Cafe%20Sasuk/4.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/ayder/Restoranlar/Cafe%20Sasuk/5.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/ayder/Restoranlar/Cafe%20Sasuk/6.png"
+                            ]
+                        },
+                        {
+                            "name": "Keyf yemen restoran",
+                            "background": "BR",
+                            "resimler":
+                            [
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/ayder/Restoranlar/Keyf%20yemen%20restoran/1.jpeg",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/ayder/Restoranlar/Keyf%20yemen%20restoran/2.jpeg",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/ayder/Restoranlar/Keyf%20yemen%20restoran/3.jpeg",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/ayder/Restoranlar/Keyf%20yemen%20restoran/4.jpeg",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/ayder/Restoranlar/Keyf%20yemen%20restoran/5.jpeg",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/ayder/Restoranlar/Keyf%20yemen%20restoran/6.jpeg",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/ayder/Restoranlar/Keyf%20yemen%20restoran/9.jpeg"
+
+                            ]
+                        },
+                        {
+                            "name": "Yılmaz cafe Restoran",
+                            "background": "BR",
+                            "resimler":
+                            [
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/ayder/Restoranlar/Y%C4%B1lmaz%20cafe%20Restoran/1.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/ayder/Restoranlar/Y%C4%B1lmaz%20cafe%20Restoran/2.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/ayder/Restoranlar/Y%C4%B1lmaz%20cafe%20Restoran/3.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/ayder/Restoranlar/Y%C4%B1lmaz%20cafe%20Restoran/4.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/ayder/Restoranlar/Y%C4%B1lmaz%20cafe%20Restoran/5.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/ayder/Restoranlar/Y%C4%B1lmaz%20cafe%20Restoran/6.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/ayder/Restoranlar/Y%C4%B1lmaz%20cafe%20Restoran/7.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/ayder/Restoranlar/Y%C4%B1lmaz%20cafe%20Restoran/8.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/ayder/Restoranlar/Y%C4%B1lmaz%20cafe%20Restoran/9.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/ayder/Restoranlar/Y%C4%B1lmaz%20cafe%20Restoran/10.png"
+
                             ]
                         }
                     ]
