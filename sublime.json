@@ -207,24 +207,79 @@
                     "oteller":
                     [
                         {
-                            "name": "otel a",
+                            "name": "Çathan Art Hotel",
                             "background": "resim ",
                             "resimler":
                             [
-                                "resim1",
-                                "resim2"
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/rize%20k%C4%B1z%20kalesi/oteller/%C3%87athan%20Art%20Hotel/1.jpg",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/rize%20k%C4%B1z%20kalesi/oteller/%C3%87athan%20Art%20Hotel/2.jpg",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/rize%20k%C4%B1z%20kalesi/oteller/%C3%87athan%20Art%20Hotel/3.jpg",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/rize%20k%C4%B1z%20kalesi/oteller/%C3%87athan%20Art%20Hotel/4.jpg",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/rize%20k%C4%B1z%20kalesi/oteller/%C3%87athan%20Art%20Hotel/5.jpg",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/rize%20k%C4%B1z%20kalesi/oteller/%C3%87athan%20Art%20Hotel/6.jpg",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/rize%20k%C4%B1z%20kalesi/oteller/%C3%87athan%20Art%20Hotel/7.jpg",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/rize%20k%C4%B1z%20kalesi/oteller/%C3%87athan%20Art%20Hotel/8.jpg",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/rize%20k%C4%B1z%20kalesi/oteller/%C3%87athan%20Art%20Hotel/9.jpg",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/rize%20k%C4%B1z%20kalesi/oteller/%C3%87athan%20Art%20Hotel/10.jpg",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/rize%20k%C4%B1z%20kalesi/oteller/%C3%87athan%20Art%20Hotel/11.jpg",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/rize%20k%C4%B1z%20kalesi/oteller/%C3%87athan%20Art%20Hotel/12.jpg",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/rize%20k%C4%B1z%20kalesi/oteller/%C3%87athan%20Art%20Hotel/13.jpg",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/rize%20k%C4%B1z%20kalesi/oteller/%C3%87athan%20Art%20Hotel/14.jpg",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/rize%20k%C4%B1z%20kalesi/oteller/%C3%87athan%20Art%20Hotel/15.jpg",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/rize%20k%C4%B1z%20kalesi/oteller/%C3%87athan%20Art%20Hotel/16.jpg",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/rize%20k%C4%B1z%20kalesi/oteller/%C3%87athan%20Art%20Hotel/17.jpg"
+                            ]
+                        },
+                        {
+                            "name": "Minerva Hotel ",
+                            "background": "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/rize%20k%C4%B1z%20kalesi/oteller/Minerva%20Hotel%20Pazar/br.jpg",
+                            "resimler":
+                            [
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/rize%20k%C4%B1z%20kalesi/oteller/Minerva%20Hotel%20Pazar/1.jpg",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/rize%20k%C4%B1z%20kalesi/oteller/Minerva%20Hotel%20Pazar/2.jpg",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/rize%20k%C4%B1z%20kalesi/oteller/Minerva%20Hotel%20Pazar/3.jpg",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/rize%20k%C4%B1z%20kalesi/oteller/Minerva%20Hotel%20Pazar/4.jpg",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/rize%20k%C4%B1z%20kalesi/oteller/Minerva%20Hotel%20Pazar/5.jpg",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/rize%20k%C4%B1z%20kalesi/oteller/Minerva%20Hotel%20Pazar/6.jpg",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/rize%20k%C4%B1z%20kalesi/oteller/Minerva%20Hotel%20Pazar/7.jpg",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/rize%20k%C4%B1z%20kalesi/oteller/Minerva%20Hotel%20Pazar/8.jpg",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/rize%20k%C4%B1z%20kalesi/oteller/Minerva%20Hotel%20Pazar/9.jpg",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/rize%20k%C4%B1z%20kalesi/oteller/Minerva%20Hotel%20Pazar/10.jpg",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/rize%20k%C4%B1z%20kalesi/oteller/Minerva%20Hotel%20Pazar/11.jpg",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/rize%20k%C4%B1z%20kalesi/oteller/Minerva%20Hotel%20Pazar/12.jpg"
                             ]
                         }
                     ],
                     "restoranlar":
                     [
                         {
-                            "name": "restoran1 ",
-                            "background": "url1",
+                            "name": "Dayının Balık Evi",
+                            "background": "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/rize%20k%C4%B1z%20kalesi/restoranlar/Day%C4%B1n%C4%B1n%20Bal%C4%B1k%20Evi/br.jpg",
                             "resimler":
                             [
-                                "resim1",
-                                "resim2"
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/rize%20k%C4%B1z%20kalesi/restoranlar/Day%C4%B1n%C4%B1n%20Bal%C4%B1k%20Evi/1.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/rize%20k%C4%B1z%20kalesi/restoranlar/Day%C4%B1n%C4%B1n%20Bal%C4%B1k%20Evi/2.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/rize%20k%C4%B1z%20kalesi/restoranlar/Day%C4%B1n%C4%B1n%20Bal%C4%B1k%20Evi/3.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/rize%20k%C4%B1z%20kalesi/restoranlar/Day%C4%B1n%C4%B1n%20Bal%C4%B1k%20Evi/4.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/rize%20k%C4%B1z%20kalesi/restoranlar/Day%C4%B1n%C4%B1n%20Bal%C4%B1k%20Evi/5.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/rize%20k%C4%B1z%20kalesi/restoranlar/Day%C4%B1n%C4%B1n%20Bal%C4%B1k%20Evi/6.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/rize%20k%C4%B1z%20kalesi/restoranlar/Day%C4%B1n%C4%B1n%20Bal%C4%B1k%20Evi/7.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/rize%20k%C4%B1z%20kalesi/restoranlar/Day%C4%B1n%C4%B1n%20Bal%C4%B1k%20Evi/8.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/rize%20k%C4%B1z%20kalesi/restoranlar/Day%C4%B1n%C4%B1n%20Bal%C4%B1k%20Evi/9.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/rize%20k%C4%B1z%20kalesi/restoranlar/Day%C4%B1n%C4%B1n%20Bal%C4%B1k%20Evi/10.png"
+                            ]
+                        },
+                        {
+                            "name": "Onur Pide Kebap",
+                            "background": "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/rize%20k%C4%B1z%20kalesi/restoranlar/Onur%20Pide%20Kebap/br.png",
+                            "resimler":
+                            [
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/rize%20k%C4%B1z%20kalesi/restoranlar/Onur%20Pide%20Kebap/1.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/rize%20k%C4%B1z%20kalesi/restoranlar/Onur%20Pide%20Kebap/2.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/rize%20k%C4%B1z%20kalesi/restoranlar/Onur%20Pide%20Kebap/3.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/rize%20k%C4%B1z%20kalesi/restoranlar/Onur%20Pide%20Kebap/4.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/rize%20k%C4%B1z%20kalesi/restoranlar/Onur%20Pide%20Kebap/5.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/rize%20k%C4%B1z%20kalesi/restoranlar/Onur%20Pide%20Kebap/6.png"
                             ]
                         }
                     ]
@@ -256,12 +311,20 @@
                     "restoranlar":
                     [
                         {
-                            "name": "restoran1 ",
+                            "name": "Atmaca Tepesi Restorant Cafe",
                             "background": "url1",
-                            "resiler":
+                            "resimler":
                             [
-                                "resim1",
-                                "resim2"
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/K%C4%B1bleda%C4%9F%C4%B1%20camii/Restoranlar/Atmaca%20Tepesi%20Restorant%20Cafe/1.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/K%C4%B1bleda%C4%9F%C4%B1%20camii/Restoranlar/Atmaca%20Tepesi%20Restorant%20Cafe/2.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/K%C4%B1bleda%C4%9F%C4%B1%20camii/Restoranlar/Atmaca%20Tepesi%20Restorant%20Cafe/3.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/K%C4%B1bleda%C4%9F%C4%B1%20camii/Restoranlar/Atmaca%20Tepesi%20Restorant%20Cafe/4.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/K%C4%B1bleda%C4%9F%C4%B1%20camii/Restoranlar/Atmaca%20Tepesi%20Restorant%20Cafe/5.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/K%C4%B1bleda%C4%9F%C4%B1%20camii/Restoranlar/Atmaca%20Tepesi%20Restorant%20Cafe/6.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/K%C4%B1bleda%C4%9F%C4%B1%20camii/Restoranlar/Atmaca%20Tepesi%20Restorant%20Cafe/7.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/K%C4%B1bleda%C4%9F%C4%B1%20camii/Restoranlar/Atmaca%20Tepesi%20Restorant%20Cafe/8.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/K%C4%B1bleda%C4%9F%C4%B1%20camii/Restoranlar/Atmaca%20Tepesi%20Restorant%20Cafe/9.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/K%C4%B1bleda%C4%9F%C4%B1%20camii/Restoranlar/Atmaca%20Tepesi%20Restorant%20Cafe/10.png"
                             ]
                         }
                     ]
@@ -297,7 +360,7 @@
                         {
                             "name": "restoran1 ",
                             "background": "url1",
-                            "resiler":
+                            "resimler":
                             [
                                 "resim1",
                                 "resim2"
@@ -335,7 +398,7 @@
                         {
                             "name": "restoran1 ",
                             "background": "url1",
-                            "resiler":
+                            "resimler":
                             [
                                 "resim1",
                                 "resim2"
@@ -374,7 +437,7 @@
                         {
                             "name": "restoran1 ",
                             "background": "url1",
-                            "resiler":
+                            "resimler":
                             [
                                 "resim1",
                                 "resim2"
@@ -411,7 +474,7 @@
                         {
                             "name": "restoran1 ",
                             "background": "url1",
-                            "resiler":
+                            "resimler":
                             [
                                 "resim1",
                                 "resim2"
@@ -449,7 +512,7 @@
                         {
                             "name": "restoran1 ",
                             "background": "url1",
-                            "resiler":
+                            "resimler":
                             [
                                 "resim1",
                                 "resim2"
@@ -486,7 +549,7 @@
                         {
                             "name": "restoran1 ",
                             "background": "url1",
-                            "resiler":
+                            "resimler":
                             [
                                 "resim1",
                                 "resim2"
