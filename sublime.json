@@ -461,7 +461,6 @@
                                 "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/ziraat%20%C3%A7ay%20bah%C3%A7eesi/Restoranlar/ziraat%20%C3%A7ay%20bah%C3%A7esi/8.png"
                             ]
                         },
-
                         {
                             "name": "Çayla",
                             "background": "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/ziraat%20%C3%A7ay%20bah%C3%A7eesi/Restoranlar/%C3%87ayla/br.png",
@@ -580,7 +579,7 @@
                 },
                 {
                     "name": "Isırlık Tabiat Parkı",
-                    "background": "1",
+                    "background": "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/%C4%B1s%C4%B1rl%C4%B1k%20tabiat%20park%C4%B1/br.png",
                     "isVisible": true,
                     "hakkında": "güzel",
                     "resimler":
@@ -624,7 +623,7 @@
                 },
                 {
                     "name": "Kale",
-                    "background": "1",
+                    "background": "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/MERKEZ%20KALE/br.png",
                     "isVisible": true,
                     "hakkında": "güzel",
                     "resimler":
