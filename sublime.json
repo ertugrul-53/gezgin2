@@ -358,12 +358,21 @@
                     "restoranlar":
                     [
                         {
-                            "name": "restoran1 ",
-                            "background": "url1",
+                            "name": "Pilunç Çay Evi",
+                            "background": "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/pokut/Restoranlar/Pilun%C3%A7%20%C3%87ay%20Evi/br.png",
                             "resimler":
                             [
-                                "resim1",
-                                "resim2"
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/pokut/Restoranlar/Pilun%C3%A7%20%C3%87ay%20Evi/1.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/pokut/Restoranlar/Pilun%C3%A7%20%C3%87ay%20Evi/2.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/pokut/Restoranlar/Pilun%C3%A7%20%C3%87ay%20Evi/3.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/pokut/Restoranlar/Pilun%C3%A7%20%C3%87ay%20Evi/4.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/pokut/Restoranlar/Pilun%C3%A7%20%C3%87ay%20Evi/5.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/pokut/Restoranlar/Pilun%C3%A7%20%C3%87ay%20Evi/6.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/pokut/Restoranlar/Pilun%C3%A7%20%C3%87ay%20Evi/7.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/pokut/Restoranlar/Pilun%C3%A7%20%C3%87ay%20Evi/8.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/pokut/Restoranlar/Pilun%C3%A7%20%C3%87ay%20Evi/9.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/pokut/Restoranlar/Pilun%C3%A7%20%C3%87ay%20Evi/10.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/pokut/Restoranlar/Pilun%C3%A7%20%C3%87ay%20Evi/11.png"
                             ]
                         }
                     ]
@@ -396,12 +405,16 @@
                     "restoranlar":
                     [
                         {
-                            "name": "restoran1 ",
-                            "background": "url1",
+                            "name": "Tozkaban Restorant",
+                            "background": "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/zilkale/Restoranlar/Tozkaban%20Restorant/br.png",
                             "resimler":
                             [
-                                "resim1",
-                                "resim2"
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/zilkale/Restoranlar/Tozkaban%20Restorant/1.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/zilkale/Restoranlar/Tozkaban%20Restorant/2.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/zilkale/Restoranlar/Tozkaban%20Restorant/3.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/zilkale/Restoranlar/Tozkaban%20Restorant/4.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/zilkale/Restoranlar/Tozkaban%20Restorant/5.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/zilkale/Restoranlar/Tozkaban%20Restorant/6.png"
                             ]
                         }
                     ]
@@ -435,12 +448,36 @@
                     "restoranlar":
                     [
                         {
-                            "name": "restoran1 ",
-                            "background": "url1",
+                            "name": "ziraat çay bahçesi ",
+                            "background": "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/ziraat%20%C3%A7ay%20bah%C3%A7eesi/Restoranlar/ziraat%20%C3%A7ay%20bah%C3%A7esi/br.png",
                             "resimler":
                             [
-                                "resim1",
-                                "resim2"
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/ziraat%20%C3%A7ay%20bah%C3%A7eesi/Restoranlar/ziraat%20%C3%A7ay%20bah%C3%A7esi/1.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/ziraat%20%C3%A7ay%20bah%C3%A7eesi/Restoranlar/ziraat%20%C3%A7ay%20bah%C3%A7esi/2.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/ziraat%20%C3%A7ay%20bah%C3%A7eesi/Restoranlar/ziraat%20%C3%A7ay%20bah%C3%A7esi/4.jpg",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/ziraat%20%C3%A7ay%20bah%C3%A7eesi/Restoranlar/ziraat%20%C3%A7ay%20bah%C3%A7esi/5.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/ziraat%20%C3%A7ay%20bah%C3%A7eesi/Restoranlar/ziraat%20%C3%A7ay%20bah%C3%A7esi/6.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/ziraat%20%C3%A7ay%20bah%C3%A7eesi/Restoranlar/ziraat%20%C3%A7ay%20bah%C3%A7esi/7.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/ziraat%20%C3%A7ay%20bah%C3%A7eesi/Restoranlar/ziraat%20%C3%A7ay%20bah%C3%A7esi/8.png"
+                            ]
+                        },
+
+                        {
+                            "name": "Çayla",
+                            "background": "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/ziraat%20%C3%A7ay%20bah%C3%A7eesi/Restoranlar/%C3%87ayla/br.png",
+                            "resimler":
+                            [
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/ziraat%20%C3%A7ay%20bah%C3%A7eesi/Restoranlar/%C3%87ayla/1.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/ziraat%20%C3%A7ay%20bah%C3%A7eesi/Restoranlar/%C3%87ayla/2.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/ziraat%20%C3%A7ay%20bah%C3%A7eesi/Restoranlar/%C3%87ayla/3.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/ziraat%20%C3%A7ay%20bah%C3%A7eesi/Restoranlar/%C3%87ayla/4.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/ziraat%20%C3%A7ay%20bah%C3%A7eesi/Restoranlar/%C3%87ayla/5.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/ziraat%20%C3%A7ay%20bah%C3%A7eesi/Restoranlar/%C3%87ayla/6.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/ziraat%20%C3%A7ay%20bah%C3%A7eesi/Restoranlar/%C3%87ayla/7.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/ziraat%20%C3%A7ay%20bah%C3%A7eesi/Restoranlar/%C3%87ayla/8.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/ziraat%20%C3%A7ay%20bah%C3%A7eesi/Restoranlar/%C3%87ayla/9.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/ziraat%20%C3%A7ay%20bah%C3%A7eesi/Restoranlar/%C3%87ayla/10.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/ziraat%20%C3%A7ay%20bah%C3%A7eesi/Restoranlar/%C3%87ayla/11.png"
                             ]
                         }
                     ]
@@ -472,12 +509,71 @@
                     "restoranlar":
                     [
                         {
-                            "name": "restoran1 ",
-                            "background": "url1",
+                            "name": "Nalia Rize",
+                            "background": "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/%C3%A7ay%20%C3%A7ar%C5%9F%C4%B1s%C4%B1/Restoranlar/Nalia%20Rize/br.jpg",
                             "resimler":
                             [
-                                "resim1",
-                                "resim2"
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/%C3%A7ay%20%C3%A7ar%C5%9F%C4%B1s%C4%B1/Restoranlar/Nalia%20Rize/1.jpg",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/%C3%A7ay%20%C3%A7ar%C5%9F%C4%B1s%C4%B1/Restoranlar/Nalia%20Rize/2.jpg",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/%C3%A7ay%20%C3%A7ar%C5%9F%C4%B1s%C4%B1/Restoranlar/Nalia%20Rize/3.jpg",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/%C3%A7ay%20%C3%A7ar%C5%9F%C4%B1s%C4%B1/Restoranlar/Nalia%20Rize/4.jpg",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/%C3%A7ay%20%C3%A7ar%C5%9F%C4%B1s%C4%B1/Restoranlar/Nalia%20Rize/5.jpg",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/%C3%A7ay%20%C3%A7ar%C5%9F%C4%B1s%C4%B1/Restoranlar/Nalia%20Rize/6.jpg",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/%C3%A7ay%20%C3%A7ar%C5%9F%C4%B1s%C4%B1/Restoranlar/Nalia%20Rize/7.jpg",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/%C3%A7ay%20%C3%A7ar%C5%9F%C4%B1s%C4%B1/Restoranlar/Nalia%20Rize/8.jpg",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/%C3%A7ay%20%C3%A7ar%C5%9F%C4%B1s%C4%B1/Restoranlar/Nalia%20Rize/9.jpg"
+                            ]
+                        },
+                        {
+                            "name": "Palimpsest Cafe Restaurant",
+                            "background": "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/%C3%A7ay%20%C3%A7ar%C5%9F%C4%B1s%C4%B1/Restoranlar/Palimpsest%20Cafe-Restaurant/br.png",
+                            "resimler":
+                            [
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/%C3%A7ay%20%C3%A7ar%C5%9F%C4%B1s%C4%B1/Restoranlar/Palimpsest%20Cafe-Restaurant/1.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/%C3%A7ay%20%C3%A7ar%C5%9F%C4%B1s%C4%B1/Restoranlar/Palimpsest%20Cafe-Restaurant/2.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/%C3%A7ay%20%C3%A7ar%C5%9F%C4%B1s%C4%B1/Restoranlar/Palimpsest%20Cafe-Restaurant/3.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/%C3%A7ay%20%C3%A7ar%C5%9F%C4%B1s%C4%B1/Restoranlar/Palimpsest%20Cafe-Restaurant/4.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/%C3%A7ay%20%C3%A7ar%C5%9F%C4%B1s%C4%B1/Restoranlar/Palimpsest%20Cafe-Restaurant/5.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/%C3%A7ay%20%C3%A7ar%C5%9F%C4%B1s%C4%B1/Restoranlar/Palimpsest%20Cafe-Restaurant/6.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/%C3%A7ay%20%C3%A7ar%C5%9F%C4%B1s%C4%B1/Restoranlar/Palimpsest%20Cafe-Restaurant/7.png"
+                            ]
+                        },
+                        {
+                            "name": "Deniz Feneri Sosyal Tesisleri ",
+                            "background": "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/%C3%A7ay%20%C3%A7ar%C5%9F%C4%B1s%C4%B1/Restoranlar/Rize%20Belediyesi%20Deniz%20Feneri%20Sosyal%20Tesisleri/br.jpg",
+                            "resimler":
+                            [
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/%C3%A7ay%20%C3%A7ar%C5%9F%C4%B1s%C4%B1/Restoranlar/Rize%20Belediyesi%20Deniz%20Feneri%20Sosyal%20Tesisleri/1.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/%C3%A7ay%20%C3%A7ar%C5%9F%C4%B1s%C4%B1/Restoranlar/Rize%20Belediyesi%20Deniz%20Feneri%20Sosyal%20Tesisleri/2.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/%C3%A7ay%20%C3%A7ar%C5%9F%C4%B1s%C4%B1/Restoranlar/Rize%20Belediyesi%20Deniz%20Feneri%20Sosyal%20Tesisleri/3.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/%C3%A7ay%20%C3%A7ar%C5%9F%C4%B1s%C4%B1/Restoranlar/Rize%20Belediyesi%20Deniz%20Feneri%20Sosyal%20Tesisleri/4.png"
+                            ]
+                        },
+                        {
+                            "name": "Sahil Park Marina Cafe ",
+                            "background": "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/%C3%A7ay%20%C3%A7ar%C5%9F%C4%B1s%C4%B1/Restoranlar/Rize%20Sahil%20Park%20Marina%20Cafe/br.png",
+                            "resimler":
+                            [
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/%C3%A7ay%20%C3%A7ar%C5%9F%C4%B1s%C4%B1/Restoranlar/Rize%20Sahil%20Park%20Marina%20Cafe/1.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/%C3%A7ay%20%C3%A7ar%C5%9F%C4%B1s%C4%B1/Restoranlar/Rize%20Sahil%20Park%20Marina%20Cafe/2.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/%C3%A7ay%20%C3%A7ar%C5%9F%C4%B1s%C4%B1/Restoranlar/Rize%20Sahil%20Park%20Marina%20Cafe/3.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/%C3%A7ay%20%C3%A7ar%C5%9F%C4%B1s%C4%B1/Restoranlar/Rize%20Sahil%20Park%20Marina%20Cafe/4.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/%C3%A7ay%20%C3%A7ar%C5%9F%C4%B1s%C4%B1/Restoranlar/Rize%20Sahil%20Park%20Marina%20Cafe/5.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/%C3%A7ay%20%C3%A7ar%C5%9F%C4%B1s%C4%B1/Restoranlar/Rize%20Sahil%20Park%20Marina%20Cafe/6.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/%C3%A7ay%20%C3%A7ar%C5%9F%C4%B1s%C4%B1/Restoranlar/Rize%20Sahil%20Park%20Marina%20Cafe/7.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/%C3%A7ay%20%C3%A7ar%C5%9F%C4%B1s%C4%B1/Restoranlar/Rize%20Sahil%20Park%20Marina%20Cafe/8.png"
+                            ]
+                        },
+                        {
+                            "name": "SAFİR CAFE RESTAURANT ",
+                            "background": "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/%C3%A7ay%20%C3%A7ar%C5%9F%C4%B1s%C4%B1/Restoranlar/SAF%C4%B0R%20CAFE%20RESTAURANT/br.png",
+                            "resimler":
+                            [
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/%C3%A7ay%20%C3%A7ar%C5%9F%C4%B1s%C4%B1/Restoranlar/SAF%C4%B0R%20CAFE%20RESTAURANT/1.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/%C3%A7ay%20%C3%A7ar%C5%9F%C4%B1s%C4%B1/Restoranlar/SAF%C4%B0R%20CAFE%20RESTAURANT/2.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/%C3%A7ay%20%C3%A7ar%C5%9F%C4%B1s%C4%B1/Restoranlar/SAF%C4%B0R%20CAFE%20RESTAURANT/3.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/%C3%A7ay%20%C3%A7ar%C5%9F%C4%B1s%C4%B1/Restoranlar/SAF%C4%B0R%20CAFE%20RESTAURANT/4.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/%C3%A7ay%20%C3%A7ar%C5%9F%C4%B1s%C4%B1/Restoranlar/SAF%C4%B0R%20CAFE%20RESTAURANT/387639720210908075818165.jpg"
                             ]
                         }
                     ]
@@ -510,12 +606,18 @@
                     "restoranlar":
                     [
                         {
-                            "name": "restoran1 ",
+                            "name": "Isırlık Sosyal Tesisi",
                             "background": "url1",
                             "resimler":
                             [
-                                "resim1",
-                                "resim2"
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/%C4%B1s%C4%B1rl%C4%B1k%20tabiat%20park%C4%B1/Restoranlar/Rize%20Belediyesi%20Is%C4%B1rl%C4%B1k%20Sosyal%20Tesisi/1.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/%C4%B1s%C4%B1rl%C4%B1k%20tabiat%20park%C4%B1/Restoranlar/Rize%20Belediyesi%20Is%C4%B1rl%C4%B1k%20Sosyal%20Tesisi/2.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/%C4%B1s%C4%B1rl%C4%B1k%20tabiat%20park%C4%B1/Restoranlar/Rize%20Belediyesi%20Is%C4%B1rl%C4%B1k%20Sosyal%20Tesisi/3.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/%C4%B1s%C4%B1rl%C4%B1k%20tabiat%20park%C4%B1/Restoranlar/Rize%20Belediyesi%20Is%C4%B1rl%C4%B1k%20Sosyal%20Tesisi/4.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/%C4%B1s%C4%B1rl%C4%B1k%20tabiat%20park%C4%B1/Restoranlar/Rize%20Belediyesi%20Is%C4%B1rl%C4%B1k%20Sosyal%20Tesisi/5.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/%C4%B1s%C4%B1rl%C4%B1k%20tabiat%20park%C4%B1/Restoranlar/Rize%20Belediyesi%20Is%C4%B1rl%C4%B1k%20Sosyal%20Tesisi/6.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/%C4%B1s%C4%B1rl%C4%B1k%20tabiat%20park%C4%B1/Restoranlar/Rize%20Belediyesi%20Is%C4%B1rl%C4%B1k%20Sosyal%20Tesisi/7.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/%C4%B1s%C4%B1rl%C4%B1k%20tabiat%20park%C4%B1/Restoranlar/Rize%20Belediyesi%20Is%C4%B1rl%C4%B1k%20Sosyal%20Tesisi/8.png"
                             ]
                         }
                     ]
@@ -547,12 +649,18 @@
                     "restoranlar":
                     [
                         {
-                            "name": "restoran1 ",
-                            "background": "url1",
+                            "name": "Kale sosyal tesis",
+                            "background": "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/MERKEZ%20KALE/Restoranlar/Kale%20sosyal%20tesis/br.png",
                             "resimler":
                             [
-                                "resim1",
-                                "resim2"
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/MERKEZ%20KALE/Restoranlar/Kale%20sosyal%20tesis/1.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/MERKEZ%20KALE/Restoranlar/Kale%20sosyal%20tesis/2.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/MERKEZ%20KALE/Restoranlar/Kale%20sosyal%20tesis/3.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/MERKEZ%20KALE/Restoranlar/Kale%20sosyal%20tesis/4.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/MERKEZ%20KALE/Restoranlar/Kale%20sosyal%20tesis/5.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/MERKEZ%20KALE/Restoranlar/Kale%20sosyal%20tesis/6.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/MERKEZ%20KALE/Restoranlar/Kale%20sosyal%20tesis/7.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/MERKEZ%20KALE/Restoranlar/Kale%20sosyal%20tesis/8.png"
                             ]
                         }
                     ]
