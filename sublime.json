@@ -818,7 +818,7 @@
             [
                 {
                     "name": "Bursa Kalesi",
-                    "backgroundUrl": "url",
+                    "background": "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Bursa%20Kalesi/br.jpg",
                     "isVisible": true,
                     "hakkında": "güzel",
                     "resimler":
