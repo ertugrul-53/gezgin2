@@ -922,7 +922,7 @@
                 },
                 {
                     "name": "Kızkalesi",
-                    "backgroundUrl": "url",
+                    "background": "url",
                     "isVisible": true,
                     "hakkında": "güzel",
                     "resimler":
