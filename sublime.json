@@ -432,8 +432,8 @@
                         "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/zilkale/resim1.jpeg",
                         "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/zilkale/resim2.jpeg",
                         "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/zilkale/resim3.jpeg",
-                        "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/zilkale/resim4.jpeg",
                         "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/zilkale/resim4.jpeg"
+                        
                     ],
                     "oteller":
                     [
@@ -537,12 +537,13 @@
                     "hakkında": "güzel",
                     "resimler":
                     [
+                        "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/ziraat%20%C3%A7ay%20bah%C3%A7eesi/resim6.png",
                         "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/ziraat%20%C3%A7ay%20bah%C3%A7eesi/resim1.jpeg",
                         "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/ziraat%20%C3%A7ay%20bah%C3%A7eesi/resim2.png",
                         "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/ziraat%20%C3%A7ay%20bah%C3%A7eesi/resim3.jpg",
                         "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/ziraat%20%C3%A7ay%20bah%C3%A7eesi/resim4.jpeg",
-                        "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/ziraat%20%C3%A7ay%20bah%C3%A7eesi/resim5.png",
-                        "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/ziraat%20%C3%A7ay%20bah%C3%A7eesi/resim6.png"
+                        "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/ziraat%20%C3%A7ay%20bah%C3%A7eesi/resim5.png"
+                        
                     ],
                     "oteller":
                     [
@@ -793,13 +794,13 @@
                     [
                         {
                             "name": "Kale sosyal tesis",
-                            "background": "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/MERKEZ%20KALE/Restoranlar/Kale%20sosyal%20tesis/br.pngs",
+                            "background": "https://github.com/ertugrul-53/gezgin2/blob/main/R%C4%B0ZE/MERKEZ%20KALE/Restoranlar/Kale%20sosyal%20tesis/br.png",
                             "resimler":
                             [
                                 "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/MERKEZ%20KALE/Restoranlar/Kale%20sosyal%20tesis/2.png",
-                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/MERKEZ%20KALE/Restoranlar/Kale%20sosyal%20tesis/3.png",
-                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/MERKEZ%20KALE/Restoranlar/Kale%20sosyal%20tesis/4.png",
                                 "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/MERKEZ%20KALE/Restoranlar/Kale%20sosyal%20tesis/1.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/MERKEZ%20KALE/Restoranlar/Kale%20sosyal%20tesis/3.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/MERKEZ%20KALE/Restoranlar/Kale%20sosyal%20tesis/4.png",  
                                 "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/MERKEZ%20KALE/Restoranlar/Kale%20sosyal%20tesis/5.png",
                                 "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/MERKEZ%20KALE/Restoranlar/Kale%20sosyal%20tesis/6.png",
                                 "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/MERKEZ%20KALE/Restoranlar/Kale%20sosyal%20tesis/7.png",
@@ -816,15 +817,24 @@
             "yerler":
             [
                 {
-                    "name": "Ayder",
+                    "name": "Bursa Kalesi",
                     "backgroundUrl": "url",
                     "isVisible": true,
                     "hakkında": "güzel",
                     "resimler":
                     [
-                        "url1",
-                        "url2",
-                        "url3"
+                        "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Bursa%20Kalesi/1.jpg",
+                        "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Bursa%20Kalesi/2.jpg",
+                        "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Bursa%20Kalesi/3.jpg",
+                        "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Bursa%20Kalesi/4.jpg",
+                        "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Bursa%20Kalesi/5.jpeg",
+                        "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Bursa%20Kalesi/6.jpeg",
+                        "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Bursa%20Kalesi/7.jpeg",
+                        "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Bursa%20Kalesi/8.jpg",
+                        "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Bursa%20Kalesi/9.jpg",
+                        "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Bursa%20Kalesi/10.jpeg",
+                        "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Bursa%20Kalesi/11.jpg",
+                        "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Bursa%20Kalesi/12.jpg"
                     ],
                     "oteller":
                     [
@@ -841,12 +851,71 @@
                     "restoranlar":
                     [
                         {
-                            "name": "restoran1 ",
-                            "background": "url1",
-                            "resiler":
+                            "name": "Dürümcü Ahmet Usta ",
+                            "background": "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Bursa%20Kalesi/Restoranlar/D%C3%BCr%C3%BCmc%C3%BC%20Ahmet%20Usta/br.png",
+                            "resimler":
                             [
-                                "resim1",
-                                "resim2"
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Bursa%20Kalesi/Restoranlar/D%C3%BCr%C3%BCmc%C3%BC%20Ahmet%20Usta/1.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Bursa%20Kalesi/Restoranlar/D%C3%BCr%C3%BCmc%C3%BC%20Ahmet%20Usta/2.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Bursa%20Kalesi/Restoranlar/D%C3%BCr%C3%BCmc%C3%BC%20Ahmet%20Usta/3.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Bursa%20Kalesi/Restoranlar/D%C3%BCr%C3%BCmc%C3%BC%20Ahmet%20Usta/4.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Bursa%20Kalesi/Restoranlar/D%C3%BCr%C3%BCmc%C3%BC%20Ahmet%20Usta/5.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Bursa%20Kalesi/Restoranlar/D%C3%BCr%C3%BCmc%C3%BC%20Ahmet%20Usta/6.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Bursa%20Kalesi/Restoranlar/D%C3%BCr%C3%BCmc%C3%BC%20Ahmet%20Usta/7.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Bursa%20Kalesi/Restoranlar/D%C3%BCr%C3%BCmc%C3%BC%20Ahmet%20Usta/8.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Bursa%20Kalesi/Restoranlar/D%C3%BCr%C3%BCmc%C3%BC%20Ahmet%20Usta/9.png"
+                            ]
+                        },
+                        {
+                            "name": "Güneş Pide",
+                            "background": "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Bursa%20Kalesi/Restoranlar/G%C3%BCne%C5%9F%20Pide/br.png",
+                            "resimler":
+                            [
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Bursa%20Kalesi/Restoranlar/G%C3%BCne%C5%9F%20Pide/1.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Bursa%20Kalesi/Restoranlar/G%C3%BCne%C5%9F%20Pide/2.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Bursa%20Kalesi/Restoranlar/G%C3%BCne%C5%9F%20Pide/4.png"
+                            ]
+                        },
+                        {
+                            "name": "Saltanat Kebap",
+                            "background": "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Bursa%20Kalesi/Restoranlar/Saltanat%20Kebap/br.png",
+                            "resimler":
+                            [
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Bursa%20Kalesi/Restoranlar/Saltanat%20Kebap/1.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Bursa%20Kalesi/Restoranlar/Saltanat%20Kebap/2.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Bursa%20Kalesi/Restoranlar/Saltanat%20Kebap/3.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Bursa%20Kalesi/Restoranlar/Saltanat%20Kebap/4.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Bursa%20Kalesi/Restoranlar/Saltanat%20Kebap/5.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Bursa%20Kalesi/Restoranlar/Saltanat%20Kebap/6.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Bursa%20Kalesi/Restoranlar/Saltanat%20Kebap/7.png"
+                            ]
+                        },
+                        {
+                            "name": "Yörükoğlu Pide Salonu",
+                            "background": "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Bursa%20Kalesi/Restoranlar/Y%C3%B6r%C3%BCko%C4%9Flu%20Pide%20Salonu/br.png",
+                            "resimler":
+                            [
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Bursa%20Kalesi/Restoranlar/Y%C3%B6r%C3%BCko%C4%9Flu%20Pide%20Salonu/1.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Bursa%20Kalesi/Restoranlar/Y%C3%B6r%C3%BCko%C4%9Flu%20Pide%20Salonu/2.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Bursa%20Kalesi/Restoranlar/Y%C3%B6r%C3%BCko%C4%9Flu%20Pide%20Salonu/3.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Bursa%20Kalesi/Restoranlar/Y%C3%B6r%C3%BCko%C4%9Flu%20Pide%20Salonu/4.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Bursa%20Kalesi/Restoranlar/Y%C3%B6r%C3%BCko%C4%9Flu%20Pide%20Salonu/5.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Bursa%20Kalesi/Restoranlar/Y%C3%B6r%C3%BCko%C4%9Flu%20Pide%20Salonu/6.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Bursa%20Kalesi/Restoranlar/Y%C3%B6r%C3%BCko%C4%9Flu%20Pide%20Salonu/7.png"
+                            ]
+                        },
+                        {
+                            "name": "Üç Köfte",
+                            "background": "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Bursa%20Kalesi/Restoranlar/%C3%9C%C3%A7%20K%C3%B6fte/br.png",
+                            "resimler":
+                            [
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Bursa%20Kalesi/Restoranlar/%C3%9C%C3%A7%20K%C3%B6fte/1.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Bursa%20Kalesi/Restoranlar/%C3%9C%C3%A7%20K%C3%B6fte/2.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Bursa%20Kalesi/Restoranlar/%C3%9C%C3%A7%20K%C3%B6fte/3.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Bursa%20Kalesi/Restoranlar/%C3%9C%C3%A7%20K%C3%B6fte/4.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Bursa%20Kalesi/Restoranlar/%C3%9C%C3%A7%20K%C3%B6fte/5.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Bursa%20Kalesi/Restoranlar/%C3%9C%C3%A7%20K%C3%B6fte/6.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Bursa%20Kalesi/Restoranlar/%C3%9C%C3%A7%20K%C3%B6fte/7.png"
                             ]
                         }
                     ]
