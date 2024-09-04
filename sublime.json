@@ -432,8 +432,8 @@
                         "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/zilkale/resim1.jpeg",
                         "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/zilkale/resim2.jpeg",
                         "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/zilkale/resim3.jpeg",
+                        "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/zilkale/resim4.jpeg",
                         "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/zilkale/resim4.jpeg"
-                        
                     ],
                     "oteller":
                     [
@@ -537,13 +537,12 @@
                     "hakkında": "güzel",
                     "resimler":
                     [
-                        "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/ziraat%20%C3%A7ay%20bah%C3%A7eesi/resim6.png",
                         "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/ziraat%20%C3%A7ay%20bah%C3%A7eesi/resim1.jpeg",
                         "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/ziraat%20%C3%A7ay%20bah%C3%A7eesi/resim2.png",
                         "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/ziraat%20%C3%A7ay%20bah%C3%A7eesi/resim3.jpg",
                         "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/ziraat%20%C3%A7ay%20bah%C3%A7eesi/resim4.jpeg",
-                        "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/ziraat%20%C3%A7ay%20bah%C3%A7eesi/resim5.png"
-                        
+                        "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/ziraat%20%C3%A7ay%20bah%C3%A7eesi/resim5.png",
+                        "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/ziraat%20%C3%A7ay%20bah%C3%A7eesi/resim6.png"
                     ],
                     "oteller":
                     [
@@ -794,13 +793,13 @@
                     [
                         {
                             "name": "Kale sosyal tesis",
-                            "background": "https://github.com/ertugrul-53/gezgin2/blob/main/R%C4%B0ZE/MERKEZ%20KALE/Restoranlar/Kale%20sosyal%20tesis/br.png",
+                            "background": "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/MERKEZ%20KALE/Restoranlar/Kale%20sosyal%20tesis/br.pngs",
                             "resimler":
                             [
                                 "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/MERKEZ%20KALE/Restoranlar/Kale%20sosyal%20tesis/2.png",
-                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/MERKEZ%20KALE/Restoranlar/Kale%20sosyal%20tesis/1.png",
                                 "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/MERKEZ%20KALE/Restoranlar/Kale%20sosyal%20tesis/3.png",
-                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/MERKEZ%20KALE/Restoranlar/Kale%20sosyal%20tesis/4.png",  
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/MERKEZ%20KALE/Restoranlar/Kale%20sosyal%20tesis/4.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/MERKEZ%20KALE/Restoranlar/Kale%20sosyal%20tesis/1.png",
                                 "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/MERKEZ%20KALE/Restoranlar/Kale%20sosyal%20tesis/5.png",
                                 "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/MERKEZ%20KALE/Restoranlar/Kale%20sosyal%20tesis/6.png",
                                 "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/MERKEZ%20KALE/Restoranlar/Kale%20sosyal%20tesis/7.png",
@@ -813,7 +812,7 @@
         },
         {
             "name": "Bursa",
-            "background": "url1",
+            "background": "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/Bursa/istockphoto-888826808-170667a.jpg",
             "yerler":
             [
                 {
