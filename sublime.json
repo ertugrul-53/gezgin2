@@ -813,7 +813,7 @@
         },
         {
             "name": "Bursa",
-            "background": "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/Bursa/istockphoto-888826808-170667a.jpg",
+            "background": "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/istockphoto-888826808-170667a.jpg",
             "yerler":
             [
                 {
@@ -880,7 +880,7 @@
                         },
                         {
                             "name": "Hotel Waha",
-                            "background": "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Bursa%20Kalesi/oteller/Hotel%20Waha/br.jpeg",
+                            "background": "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Bursa%20Kalesi/oteller/Hotel%20Waha/br.jpeg ",
                             "resimler":
                             [
                                 "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Bursa%20Kalesi/oteller/Hotel%20Waha/1.png",
@@ -899,7 +899,7 @@
                         },
                         {
                             "name": "Kaleiçi Otel",
-                            "background": "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Bursa%20Kalesi/oteller/Kalei%C3%A7i%20Otel/br.png",
+                            "background": "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Bursa%20Kalesi/oteller/Kalei%C3%A7i%20Otel/br.png ",
                             "resimler":
                             [
                                 "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Bursa%20Kalesi/oteller/Kalei%C3%A7i%20Otel/1.jpg",
@@ -1052,15 +1052,26 @@
                     ]
                 },
                 {
-                    "name": "Kızkalesi",
+                    "name": "Cumalıkızık Köyü",
                     "background": "url",
                     "isVisible": true,
                     "hakkında": "güzel",
                     "resimler":
                     [
-                        "url1",
-                        "url2",
-                        "url3"
+                        "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Cumal%C4%B1k%C4%B1z%C4%B1k%20K%C3%B6y%C3%BC/1.jpg",
+                        "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Cumal%C4%B1k%C4%B1z%C4%B1k%20K%C3%B6y%C3%BC/2.jpeg",
+                        "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Cumal%C4%B1k%C4%B1z%C4%B1k%20K%C3%B6y%C3%BC/3.jpg",
+                        "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Cumal%C4%B1k%C4%B1z%C4%B1k%20K%C3%B6y%C3%BC/4.jpeg",
+                        "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Cumal%C4%B1k%C4%B1z%C4%B1k%20K%C3%B6y%C3%BC/5.jpeg",
+                        "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Cumal%C4%B1k%C4%B1z%C4%B1k%20K%C3%B6y%C3%BC/6.jpg",
+                        "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Cumal%C4%B1k%C4%B1z%C4%B1k%20K%C3%B6y%C3%BC/7.jpg",
+                        "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Cumal%C4%B1k%C4%B1z%C4%B1k%20K%C3%B6y%C3%BC/8.jpg",
+                        "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Cumal%C4%B1k%C4%B1z%C4%B1k%20K%C3%B6y%C3%BC/9.jpg",
+                        "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Cumal%C4%B1k%C4%B1z%C4%B1k%20K%C3%B6y%C3%BC/10.jpg",
+                        "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Cumal%C4%B1k%C4%B1z%C4%B1k%20K%C3%B6y%C3%BC/11.jpg",
+                        "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Cumal%C4%B1k%C4%B1z%C4%B1k%20K%C3%B6y%C3%BC/12.jpg",
+                        "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Cumal%C4%B1k%C4%B1z%C4%B1k%20K%C3%B6y%C3%BC/13.jpeg",
+                        "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Cumal%C4%B1k%C4%B1z%C4%B1k%20K%C3%B6y%C3%BC/14.jpg"
                     ],
                     "oteller":
                     [
