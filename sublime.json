@@ -766,7 +766,7 @@
                     "name": "Kale",
                     "background": "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/MERKEZ%20KALE/br.jpeg",
                     "isVisible": true,
-                    "hakkında": "güzel",
+                    "hakkında": "Rize'ye yolun düştüğünde mutlaka uğraman gereken yerlerden biri de Rize Kalesi. Bu kale binlerce yıllık bir geçmişe sahip. Karadeniz'in kıyısında, yeşilin mavile karıştığı bir noktada yükseliyor.",
                     "resimler":
                     [
                         "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/R%C4%B0ZE/MERKEZ%20KALE/2.jpeg",
@@ -820,7 +820,7 @@
                     "name": "Bursa Kalesi",
                     "background": "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Bursa%20Kalesi/br.jpg",
                     "isVisible": true,
-                    "hakkında": "güzel",
+                    "hakkında": "Bursa'ya yolunuz düşerse mutlaka Bursa Kalesi'ni ziyaret etmelisiniz. Bu tarihi kale, binlerce yıldır ayakta duruyor ve şehrin sembol yapılarından biri. Bizanslılardan Osmanlılara kadar birçok medeniyete ev sahipliği yapmış. Kaleden Bursa'ya hakim bir manzara seyretmek ve tarihi dokusunu keşfetmek için harika bir fırsat.",
                     "resimler":
                     [
                         "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Bursa%20Kalesi/1.jpg",
@@ -839,12 +839,143 @@
                     "oteller":
                     [
                         {
-                            "name": "otel a",
-                            "background": "resim ",
+                            "name": "B LOFT HOTEL BURSA",
+                            "background": "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Bursa%20Kalesi/oteller/B%20LOFT%20HOTEL%20BURSA/br.png",
                             "resimler":
                             [
-                                "resim1",
-                                "resim2"
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Bursa%20Kalesi/oteller/B%20LOFT%20HOTEL%20BURSA/1.jpg",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Bursa%20Kalesi/oteller/B%20LOFT%20HOTEL%20BURSA/2.jpeg",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Bursa%20Kalesi/oteller/B%20LOFT%20HOTEL%20BURSA/3.jpeg",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Bursa%20Kalesi/oteller/B%20LOFT%20HOTEL%20BURSA/4.jpeg",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Bursa%20Kalesi/oteller/B%20LOFT%20HOTEL%20BURSA/5.jpeg",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Bursa%20Kalesi/oteller/B%20LOFT%20HOTEL%20BURSA/6.jpeg",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Bursa%20Kalesi/oteller/B%20LOFT%20HOTEL%20BURSA/7.jpeg",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Bursa%20Kalesi/oteller/B%20LOFT%20HOTEL%20BURSA/8.jpg",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Bursa%20Kalesi/oteller/B%20LOFT%20HOTEL%20BURSA/9.jpg",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Bursa%20Kalesi/oteller/B%20LOFT%20HOTEL%20BURSA/10.jpg",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Bursa%20Kalesi/oteller/B%20LOFT%20HOTEL%20BURSA/11.jpg",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Bursa%20Kalesi/oteller/B%20LOFT%20HOTEL%20BURSA/12.jpg",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Bursa%20Kalesi/oteller/B%20LOFT%20HOTEL%20BURSA/13.jpg",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Bursa%20Kalesi/oteller/B%20LOFT%20HOTEL%20BURSA/14.jpg"
+                            ]
+                        },
+                        {
+                            "name": "GÜNEŞ OTEL",
+                            "background": "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Bursa%20Kalesi/oteller/G%C3%9CNE%C5%9E%20OTEL/br.png ",
+                            "resimler":
+                            [
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Bursa%20Kalesi/oteller/G%C3%9CNE%C5%9E%20OTEL/1.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Bursa%20Kalesi/oteller/G%C3%9CNE%C5%9E%20OTEL/2.jpg",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Bursa%20Kalesi/oteller/G%C3%9CNE%C5%9E%20OTEL/3.jpg",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Bursa%20Kalesi/oteller/G%C3%9CNE%C5%9E%20OTEL/4.jpg",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Bursa%20Kalesi/oteller/G%C3%9CNE%C5%9E%20OTEL/5.jpg",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Bursa%20Kalesi/oteller/G%C3%9CNE%C5%9E%20OTEL/6.jpg",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Bursa%20Kalesi/oteller/G%C3%9CNE%C5%9E%20OTEL/7.jpg",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Bursa%20Kalesi/oteller/G%C3%9CNE%C5%9E%20OTEL/8.jpg",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Bursa%20Kalesi/oteller/G%C3%9CNE%C5%9E%20OTEL/9.jpg",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Bursa%20Kalesi/oteller/G%C3%9CNE%C5%9E%20OTEL/10.jpg",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Bursa%20Kalesi/oteller/G%C3%9CNE%C5%9E%20OTEL/11.jpg",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Bursa%20Kalesi/oteller/G%C3%9CNE%C5%9E%20OTEL/12.jpg"
+                            ]
+                        },
+                        {
+                            "name": "Hotel Waha",
+                            "background": "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Bursa%20Kalesi/oteller/Hotel%20Waha/br.jpeg ",
+                            "resimler":
+                            [
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Bursa%20Kalesi/oteller/Hotel%20Waha/1.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Bursa%20Kalesi/oteller/Hotel%20Waha/2.jpeg",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Bursa%20Kalesi/oteller/Hotel%20Waha/3.jpeg",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Bursa%20Kalesi/oteller/Hotel%20Waha/4.jpeg",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Bursa%20Kalesi/oteller/Hotel%20Waha/5.jpeg",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Bursa%20Kalesi/oteller/Hotel%20Waha/6.jpeg",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Bursa%20Kalesi/oteller/Hotel%20Waha/7.jpeg",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Bursa%20Kalesi/oteller/Hotel%20Waha/8.jpeg",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Bursa%20Kalesi/oteller/Hotel%20Waha/9.jpeg",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Bursa%20Kalesi/oteller/Hotel%20Waha/10.jpeg",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Bursa%20Kalesi/oteller/Hotel%20Waha/11.jpeg",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Bursa%20Kalesi/oteller/Hotel%20Waha/12.png"
+                            ]
+                        },
+                        {
+                            "name": "Kaleiçi Otel",
+                            "background": "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Bursa%20Kalesi/oteller/Kalei%C3%A7i%20Otel/br.png ",
+                            "resimler":
+                            [
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Bursa%20Kalesi/oteller/Kalei%C3%A7i%20Otel/1.jpg",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Bursa%20Kalesi/oteller/Kalei%C3%A7i%20Otel/2.jpg",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Bursa%20Kalesi/oteller/Kalei%C3%A7i%20Otel/3.jpg",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Bursa%20Kalesi/oteller/Kalei%C3%A7i%20Otel/4.jpg",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Bursa%20Kalesi/oteller/Kalei%C3%A7i%20Otel/5.jpg",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Bursa%20Kalesi/oteller/Kalei%C3%A7i%20Otel/6.jpg",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Bursa%20Kalesi/oteller/Kalei%C3%A7i%20Otel/7.jpg",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Bursa%20Kalesi/oteller/Kalei%C3%A7i%20Otel/8.jpg",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Bursa%20Kalesi/oteller/Kalei%C3%A7i%20Otel/9.jpg",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Bursa%20Kalesi/oteller/Kalei%C3%A7i%20Otel/10.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Bursa%20Kalesi/oteller/Kalei%C3%A7i%20Otel/11.png"
+                            ]
+                        },
+                        {
+                            "name": "Kayıbeyi Hotel",
+                            "background": "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Bursa%20Kalesi/oteller/Kay%C4%B1beyi%20Hotel/br.png ",
+                            "resimler":
+                            [
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Bursa%20Kalesi/oteller/Kay%C4%B1beyi%20Hotel/1.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Bursa%20Kalesi/oteller/Kay%C4%B1beyi%20Hotel/2.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Bursa%20Kalesi/oteller/Kay%C4%B1beyi%20Hotel/3.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Bursa%20Kalesi/oteller/Kay%C4%B1beyi%20Hotel/4.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Bursa%20Kalesi/oteller/Kay%C4%B1beyi%20Hotel/5.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Bursa%20Kalesi/oteller/Kay%C4%B1beyi%20Hotel/6.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Bursa%20Kalesi/oteller/Kay%C4%B1beyi%20Hotel/7.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Bursa%20Kalesi/oteller/Kay%C4%B1beyi%20Hotel/8.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Bursa%20Kalesi/oteller/Kay%C4%B1beyi%20Hotel/9.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Bursa%20Kalesi/oteller/Kay%C4%B1beyi%20Hotel/10.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Bursa%20Kalesi/oteller/Kay%C4%B1beyi%20Hotel/11.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Bursa%20Kalesi/oteller/Kay%C4%B1beyi%20Hotel/12.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Bursa%20Kalesi/oteller/Kay%C4%B1beyi%20Hotel/13.jpg"
+                            ]
+                        },
+                        {
+                            "name": "Kervansaray Hotel",
+                            "background": "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Bursa%20Kalesi/oteller/Kervansaray%20Hotel/br.jpg",
+                            "resimler":
+                            [
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Bursa%20Kalesi/oteller/Kervansaray%20Hotel/1.jpg",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Bursa%20Kalesi/oteller/Kervansaray%20Hotel/2.jpg",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Bursa%20Kalesi/oteller/Kervansaray%20Hotel/3.jpeg",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Bursa%20Kalesi/oteller/Kervansaray%20Hotel/3.jpeg",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Bursa%20Kalesi/oteller/Kervansaray%20Hotel/5.jpg",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Bursa%20Kalesi/oteller/Kervansaray%20Hotel/6.jpg",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Bursa%20Kalesi/oteller/Kervansaray%20Hotel/7.jpg",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Bursa%20Kalesi/oteller/Kervansaray%20Hotel/8.jpg",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Bursa%20Kalesi/oteller/Kervansaray%20Hotel/9.jpg",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Bursa%20Kalesi/oteller/Kervansaray%20Hotel/10.jpg",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Bursa%20Kalesi/oteller/Kervansaray%20Hotel/11.jpg",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Bursa%20Kalesi/oteller/Kervansaray%20Hotel/12.jpg",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Bursa%20Kalesi/oteller/Kervansaray%20Hotel/13.jpg",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Bursa%20Kalesi/oteller/Kervansaray%20Hotel/14.jpg",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Bursa%20Kalesi/oteller/Kervansaray%20Hotel/15.jpg",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Bursa%20Kalesi/oteller/Kervansaray%20Hotel/16.jpg",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Bursa%20Kalesi/oteller/Kervansaray%20Hotel/17.jpg"
+                            ]
+                        },
+                        {
+                            "name": "Safran Otel",
+                            "background": "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Bursa%20Kalesi/oteller/Safran%20Otel/br.jpg ",
+                            "resimler":
+                            [
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Bursa%20Kalesi/oteller/Safran%20Otel/br.jpg",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Bursa%20Kalesi/oteller/Safran%20Otel/2.jpg",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Bursa%20Kalesi/oteller/Safran%20Otel/3.jpg",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Bursa%20Kalesi/oteller/Safran%20Otel/4.jpg",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Bursa%20Kalesi/oteller/Safran%20Otel/5.jpg",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Bursa%20Kalesi/oteller/Safran%20Otel/6.jpg",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Bursa%20Kalesi/oteller/Safran%20Otel/7.jpg",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Bursa%20Kalesi/oteller/Safran%20Otel/8.jpg",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Bursa%20Kalesi/oteller/Safran%20Otel/9.jpg",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Bursa%20Kalesi/oteller/Safran%20Otel/10.jpg",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Bursa%20Kalesi/oteller/Safran%20Otel/11.jpg",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Bursa%20Kalesi/oteller/Safran%20Otel/12.jpg"
                             ]
                         }
                     ],
@@ -1109,14 +1240,16 @@
             [
                 {
                     "name": "Ayder",
-                    "backgroundUrl": "url",
+                    "background": "url",
                     "isVisible": true,
                     "hakkında": "güzel",
                     "resimler":
                     [
                         "url1",
                         "url2",
-                        "url3"
+                        "url3",
+                        "url4",
+                        "url5",
                     ],
                     "oteller":
                     [
