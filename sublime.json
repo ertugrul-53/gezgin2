@@ -1170,37 +1170,97 @@
                     ]
                 },
                 {
-                    "name": "Ayder",
-                    "background": "url",
+                    "name": "Emir Sultan Cami",
+                    "background": "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Emir%20Sultan%20Cami/br.jpeg",
                     "isVisible": true,
                     "hakkında": "güzel",
                     "resimler":
                     [
-                        "url1",
-                        "url2",
-                        "url3"
+                        "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Emir%20Sultan%20Cami/1.jpeg",
+                        "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Emir%20Sultan%20Cami/2.jpeg",
+                        "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Emir%20Sultan%20Cami/3.jpg",
+                        "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Emir%20Sultan%20Cami/4.png",
+                        "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Emir%20Sultan%20Cami/5.png",
+                        "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Emir%20Sultan%20Cami/6.png",
+                        "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Emir%20Sultan%20Cami/7.png",
+                        "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Emir%20Sultan%20Cami/8.png",
+                        "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Emir%20Sultan%20Cami/9.png"
                     ],
                     "oteller":
                     [
                         {
-                            "name": "otel a",
-                            "background": "resim ",
+                            "name": "Yeşil Pera Pansiyon",
+                            "background": "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Emir%20Sultan%20Cami/oteller/Ye%C5%9Fil%20Pera%20Pansiyon/br.png",
                             "resimler":
                             [
-                                "resim1",
-                                "resim2"
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Emir%20Sultan%20Cami/oteller/Ye%C5%9Fil%20Pera%20Pansiyon/1.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Emir%20Sultan%20Cami/oteller/Ye%C5%9Fil%20Pera%20Pansiyon/2.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Emir%20Sultan%20Cami/oteller/Ye%C5%9Fil%20Pera%20Pansiyon/3.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Emir%20Sultan%20Cami/oteller/Ye%C5%9Fil%20Pera%20Pansiyon/4.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Emir%20Sultan%20Cami/oteller/Ye%C5%9Fil%20Pera%20Pansiyon/5.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Emir%20Sultan%20Cami/oteller/Ye%C5%9Fil%20Pera%20Pansiyon/6.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Emir%20Sultan%20Cami/oteller/Ye%C5%9Fil%20Pera%20Pansiyon/7.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Emir%20Sultan%20Cami/oteller/Ye%C5%9Fil%20Pera%20Pansiyon/8.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Emir%20Sultan%20Cami/oteller/Ye%C5%9Fil%20Pera%20Pansiyon/9.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Emir%20Sultan%20Cami/oteller/Ye%C5%9Fil%20Pera%20Pansiyon/10.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Emir%20Sultan%20Cami/oteller/Ye%C5%9Fil%20Pera%20Pansiyon/11.png"
+                            ]
+                        },
+                        {
+                            "name": "Grand Marrakech Pansiyon",
+                            "background": "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Emir%20Sultan%20Cami/oteller/Grand%20Marrakech%20Pansiyon/br.png",
+                            "resimler":
+                            [
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Emir%20Sultan%20Cami/oteller/Grand%20Marrakech%20Pansiyon/1.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Emir%20Sultan%20Cami/oteller/Grand%20Marrakech%20Pansiyon/2.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Emir%20Sultan%20Cami/oteller/Grand%20Marrakech%20Pansiyon/3.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Emir%20Sultan%20Cami/oteller/Grand%20Marrakech%20Pansiyon/4.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Emir%20Sultan%20Cami/oteller/Grand%20Marrakech%20Pansiyon/5.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Emir%20Sultan%20Cami/oteller/Grand%20Marrakech%20Pansiyon/6.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Emir%20Sultan%20Cami/oteller/Grand%20Marrakech%20Pansiyon/7.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Emir%20Sultan%20Cami/oteller/Grand%20Marrakech%20Pansiyon/8.png"
+                            ]
+                        },
+                        {
+                            "name": "Güner Hotel",
+                            "background": "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Emir%20Sultan%20Cami/oteller/G%C3%BCner%20Hotel/br.png",
+                            "resimler":
+                            [
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Emir%20Sultan%20Cami/oteller/G%C3%BCner%20Hotel/1.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Emir%20Sultan%20Cami/oteller/G%C3%BCner%20Hotel/2.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Emir%20Sultan%20Cami/oteller/G%C3%BCner%20Hotel/3.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Emir%20Sultan%20Cami/oteller/G%C3%BCner%20Hotel/4.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Emir%20Sultan%20Cami/oteller/G%C3%BCner%20Hotel/5.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Emir%20Sultan%20Cami/oteller/G%C3%BCner%20Hotel/6.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Emir%20Sultan%20Cami/oteller/G%C3%BCner%20Hotel/7.png"
+                            ]
+                        },
+                        {
+                            "name": "Kule Hotel",
+                            "background": "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Emir%20Sultan%20Cami/oteller/Kule%20Hotel/br.png",
+                            "resimler":
+                            [
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Emir%20Sultan%20Cami/oteller/Kule%20Hotel/1.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Emir%20Sultan%20Cami/oteller/Kule%20Hotel/2.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Emir%20Sultan%20Cami/oteller/Kule%20Hotel/3.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Emir%20Sultan%20Cami/oteller/Kule%20Hotel/4.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Emir%20Sultan%20Cami/oteller/Kule%20Hotel/5.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Emir%20Sultan%20Cami/oteller/Kule%20Hotel/6.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Emir%20Sultan%20Cami/oteller/Kule%20Hotel/7.png"
                             ]
                         }
                     ],
                     "restoranlar":
                     [
                         {
-                            "name": "restoran1 ",
-                            "background": "url1",
+                            "name": "Mabeyn Emirsultan",
+                            "background": "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Emir%20Sultan%20Cami/Restoranlar/Mabeyn%20Emirsultan/br.png",
                             "resiler":
                             [
-                                "resim1",
-                                "resim2"
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Emir%20Sultan%20Cami/Restoranlar/Mabeyn%20Emirsultan/1.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Emir%20Sultan%20Cami/Restoranlar/Mabeyn%20Emirsultan/2.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Emir%20Sultan%20Cami/Restoranlar/Mabeyn%20Emirsultan/3.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Emir%20Sultan%20Cami/Restoranlar/Mabeyn%20Emirsultan/4.png"
                             ]
                         }
                     ]
