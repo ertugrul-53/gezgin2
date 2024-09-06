@@ -1266,15 +1266,26 @@
                     ]
                 },
                 {
-                    "name": "Ayder",
-                    "background": "url",
+                    "name": "Hanlar Bölgesi",
+                    "background": "https://github.com/ertugrul-53/gezgin2/blob/main/BURSA/Hanlar%20B%C3%B6lgesi/br.jpg",
                     "isVisible": true,
                     "hakkında": "güzel",
                     "resimler":
                     [
-                        "url1",
-                        "url2",
-                        "url3"
+                        "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Hanlar%20B%C3%B6lgesi/1.jpeg",
+                        "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Hanlar%20B%C3%B6lgesi/2.jpeg",
+                        "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Hanlar%20B%C3%B6lgesi/3.jpeg",
+                        "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Hanlar%20B%C3%B6lgesi/4.png",
+                        "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Hanlar%20B%C3%B6lgesi/5.jpg",
+                        "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Hanlar%20B%C3%B6lgesi/6.jpg",
+                        "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Hanlar%20B%C3%B6lgesi/7.jpg",
+                        "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Hanlar%20B%C3%B6lgesi/8.jpg",
+                        "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Hanlar%20B%C3%B6lgesi/9.jpg",
+                        "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Hanlar%20B%C3%B6lgesi/10.jpg",
+                        "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Hanlar%20B%C3%B6lgesi/11.jpg",
+                        "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Hanlar%20B%C3%B6lgesi/12.jpg",
+                        "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Hanlar%20B%C3%B6lgesi/13.jpg",
+                        "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Hanlar%20B%C3%B6lgesi/14.jpg"
                     ],
                     "oteller":
                     [
@@ -1291,12 +1302,80 @@
                     "restoranlar":
                     [
                         {
-                            "name": "restoran1 ",
-                            "background": "url1",
+                            "name": "Atmosfer fırın",
+                            "background": "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Hanlar%20B%C3%B6lgesi/Restoranlar/Atmosfer%20f%C4%B1r%C4%B1n/br.png",
                             "resiler":
                             [
-                                "resim1",
-                                "resim2"
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Hanlar%20B%C3%B6lgesi/Restoranlar/Atmosfer%20f%C4%B1r%C4%B1n/1.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Hanlar%20B%C3%B6lgesi/Restoranlar/Atmosfer%20f%C4%B1r%C4%B1n/2.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Hanlar%20B%C3%B6lgesi/Restoranlar/Atmosfer%20f%C4%B1r%C4%B1n/3.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Hanlar%20B%C3%B6lgesi/Restoranlar/Atmosfer%20f%C4%B1r%C4%B1n/4.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Hanlar%20B%C3%B6lgesi/Restoranlar/Atmosfer%20f%C4%B1r%C4%B1n/5.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Hanlar%20B%C3%B6lgesi/Restoranlar/Atmosfer%20f%C4%B1r%C4%B1n/6.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Hanlar%20B%C3%B6lgesi/Restoranlar/Atmosfer%20f%C4%B1r%C4%B1n/7.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Hanlar%20B%C3%B6lgesi/Restoranlar/Atmosfer%20f%C4%B1r%C4%B1n/8.png"
+                            ]
+                        },
+                        {
+                            "name": "Beyler Kebap ",
+                            "background": "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Hanlar%20B%C3%B6lgesi/Restoranlar/Beyler%20Kebap/br.png",
+                            "resiler":
+                            [
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Hanlar%20B%C3%B6lgesi/Restoranlar/Beyler%20Kebap/1.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Hanlar%20B%C3%B6lgesi/Restoranlar/Beyler%20Kebap/2.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Hanlar%20B%C3%B6lgesi/Restoranlar/Beyler%20Kebap/3.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Hanlar%20B%C3%B6lgesi/Restoranlar/Beyler%20Kebap/4.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Hanlar%20B%C3%B6lgesi/Restoranlar/Beyler%20Kebap/5.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Hanlar%20B%C3%B6lgesi/Restoranlar/Beyler%20Kebap/6.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Hanlar%20B%C3%B6lgesi/Restoranlar/Beyler%20Kebap/7.png"
+                            ]
+                        },
+                        {
+                            "name": "Bursa Kebapçısı",
+                            "background": "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Hanlar%20B%C3%B6lgesi/Restoranlar/Bursa%20Kebap%C3%A7%C4%B1s%C4%B1/br.png",
+                            "resiler":
+                            [
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Hanlar%20B%C3%B6lgesi/Restoranlar/Bursa%20Kebap%C3%A7%C4%B1s%C4%B1/1.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Hanlar%20B%C3%B6lgesi/Restoranlar/Bursa%20Kebap%C3%A7%C4%B1s%C4%B1/2.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Hanlar%20B%C3%B6lgesi/Restoranlar/Bursa%20Kebap%C3%A7%C4%B1s%C4%B1/3.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Hanlar%20B%C3%B6lgesi/Restoranlar/Bursa%20Kebap%C3%A7%C4%B1s%C4%B1/4.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Hanlar%20B%C3%B6lgesi/Restoranlar/Bursa%20Kebap%C3%A7%C4%B1s%C4%B1/5.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Hanlar%20B%C3%B6lgesi/Restoranlar/Bursa%20Kebap%C3%A7%C4%B1s%C4%B1/6.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Hanlar%20B%C3%B6lgesi/Restoranlar/Bursa%20Kebap%C3%A7%C4%B1s%C4%B1/7.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Hanlar%20B%C3%B6lgesi/Restoranlar/Bursa%20Kebap%C3%A7%C4%B1s%C4%B1/8.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Hanlar%20B%C3%B6lgesi/Restoranlar/Bursa%20Kebap%C3%A7%C4%B1s%C4%B1/9.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Hanlar%20B%C3%B6lgesi/Restoranlar/Bursa%20Kebap%C3%A7%C4%B1s%C4%B1/10.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Hanlar%20B%C3%B6lgesi/Restoranlar/Bursa%20Kebap%C3%A7%C4%B1s%C4%B1/11.png"
+                            ]
+                        },
+                        {
+                            "name": "Kervan Cafe Restorant",
+                            "background": "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Hanlar%20B%C3%B6lgesi/Restoranlar/Kervan%20Cafe%20Restorant/br.png",
+                            "resiler":
+                            [
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Hanlar%20B%C3%B6lgesi/Restoranlar/Kervan%20Cafe%20Restorant/1.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Hanlar%20B%C3%B6lgesi/Restoranlar/Kervan%20Cafe%20Restorant/2.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Hanlar%20B%C3%B6lgesi/Restoranlar/Kervan%20Cafe%20Restorant/3.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Hanlar%20B%C3%B6lgesi/Restoranlar/Kervan%20Cafe%20Restorant/4.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Hanlar%20B%C3%B6lgesi/Restoranlar/Kervan%20Cafe%20Restorant/5.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Hanlar%20B%C3%B6lgesi/Restoranlar/Kervan%20Cafe%20Restorant/6.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Hanlar%20B%C3%B6lgesi/Restoranlar/Kervan%20Cafe%20Restorant/7.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Hanlar%20B%C3%B6lgesi/Restoranlar/Kervan%20Cafe%20Restorant/8.png"
+                            ]
+                        },
+                        {
+                            "name": "Titiz Izgara ",
+                            "background": "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Hanlar%20B%C3%B6lgesi/Restoranlar/Titiz%20Izgara/br.png",
+                            "resiler":
+                            [
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Hanlar%20B%C3%B6lgesi/Restoranlar/Titiz%20Izgara/1.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Hanlar%20B%C3%B6lgesi/Restoranlar/Titiz%20Izgara/2.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Hanlar%20B%C3%B6lgesi/Restoranlar/Titiz%20Izgara/3.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Hanlar%20B%C3%B6lgesi/Restoranlar/Titiz%20Izgara/4.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Hanlar%20B%C3%B6lgesi/Restoranlar/Titiz%20Izgara/5.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Hanlar%20B%C3%B6lgesi/Restoranlar/Titiz%20Izgara/6.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Hanlar%20B%C3%B6lgesi/Restoranlar/Titiz%20Izgara/7.png",
+                                "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Hanlar%20B%C3%B6lgesi/Restoranlar/Titiz%20Izgara/8.png"
                             ]
                         }
                     ]
