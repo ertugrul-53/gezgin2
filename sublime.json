@@ -1550,15 +1550,61 @@
                     ]
                 },
                 {
-                    "name": "Ayder",
-                    "background": "url",
+                    "name": "Tophane Meydanı",
+                    "background": "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Tophane%20Meydan%C4%B1/br.jpg",
                     "isVisible": true,
-                    "hakkında": "güzel",
+                    "hakkında": "resimler go to bursa dan alınmıştır",
                     "resimler":
                     [
-                        "url1",
-                        "url2",
-                        "url3"
+                        "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Tophane%20Meydan%C4%B1/1.jpg",
+                        "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Tophane%20Meydan%C4%B1/2.jpg",
+                        "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Tophane%20Meydan%C4%B1/3.jpg",
+                        "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Tophane%20Meydan%C4%B1/4.jpg",
+                        "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Tophane%20Meydan%C4%B1/5.jpg",
+                        "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Tophane%20Meydan%C4%B1/6.jpg",
+                        "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Tophane%20Meydan%C4%B1/7.jpg",
+                        "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Tophane%20Meydan%C4%B1/8.jpg"
+                    ],
+                    "oteller":
+                    [
+                        {
+                            "name": "otel a",
+                            "background": "resim ",
+                            "resimler":
+                            [
+                                "resim1",
+                                "resim2"
+                            ]
+                        }
+                    ],
+                    "restoranlar":
+                    [
+                        {
+                            "name": "restoran1 ",
+                            "background": "url1",
+                            "resiler":
+                            [
+                                "resim1",
+                                "resim2"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Yeşil Türbe",
+                    "background": "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Ye%C5%9Fil%20T%C3%BCrbe/br.jpg",
+                    "isVisible": true,
+                    "hakkında": "resimler go to bursadan",
+                    "resimler":
+                    [
+                        "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Ye%C5%9Fil%20T%C3%BCrbe/1.jpg",
+                        "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Ye%C5%9Fil%20T%C3%BCrbe/2.jpg",
+                        "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Ye%C5%9Fil%20T%C3%BCrbe/3.jpg",
+                        "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Ye%C5%9Fil%20T%C3%BCrbe/4.jpg",
+                        "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Ye%C5%9Fil%20T%C3%BCrbe/5.jpg",
+                        "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Ye%C5%9Fil%20T%C3%BCrbe/6.jpg",
+                        "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Ye%C5%9Fil%20T%C3%BCrbe/7.jpg",
+                        "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Ye%C5%9Fil%20T%C3%BCrbe/8.jpg"
                     ],
                     "oteller":
                     [
