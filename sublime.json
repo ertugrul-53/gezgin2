@@ -1381,15 +1381,20 @@
                     ]
                 },
                 {
-                    "name": "Ayder",
-                    "background": "url",
+                    "name": "Osman Gazi ve Orhan Gazi Türbeleri",
+                    "background": "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Osman%20Gazi%20ve%20Orhan%20Gazi%20T%C3%BCrbeleri/br.jpg",
                     "isVisible": true,
-                    "hakkında": "güzel",
+                    "hakkında": "go to bursa sitesisnden alındı fotolar ",
                     "resimler":
                     [
-                        "url1",
-                        "url2",
-                        "url3"
+                        "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Osman%20Gazi%20ve%20Orhan%20Gazi%20T%C3%BCrbeleri/1.jpg",
+                        "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Osman%20Gazi%20ve%20Orhan%20Gazi%20T%C3%BCrbeleri/2.jpg",
+                        "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Osman%20Gazi%20ve%20Orhan%20Gazi%20T%C3%BCrbeleri/3.jpeg",
+                        "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Osman%20Gazi%20ve%20Orhan%20Gazi%20T%C3%BCrbeleri/5.jpg",
+                        "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Osman%20Gazi%20ve%20Orhan%20Gazi%20T%C3%BCrbeleri/6.jpg",
+                        "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Osman%20Gazi%20ve%20Orhan%20Gazi%20T%C3%BCrbeleri/7.jpg",
+                        "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Osman%20Gazi%20ve%20Orhan%20Gazi%20T%C3%BCrbeleri/8.jpg",
+                        "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Osman%20Gazi%20ve%20Orhan%20Gazi%20T%C3%BCrbeleri/9.jpg"
                     ],
                     "oteller":
                     [
@@ -1417,6 +1422,50 @@
                     ]
                 },
                 {
+                    "name": "Ulucami",
+                    "background": "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Ulucami/br.jpg",
+                    "isVisible": true,
+                    "hakkında": "resimler go to bursa stesinden alınmıştır ",
+                    "resimler":
+                    [
+                        "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Ulucami/1.jpg",
+                        "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Ulucami/2.jpg",
+                        "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Ulucami/3.jpg",
+                        "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Ulucami/4.jpg",
+                        "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Ulucami/5.jpg",
+                        "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Ulucami/6.jpg",
+                        "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Ulucami/7.jpg",
+                        "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Ulucami/8.jpg",
+                        "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Ulucami/9.jpg",
+                        "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Ulucami/10.jpg",
+                        "https://raw.githubusercontent.com/ertugrul-53/gezgin2/main/BURSA/Ulucami/11.jpg"
+                    ],
+                    "oteller":
+                    [
+                        {
+                            "name": "otel a",
+                            "background": "resim ",
+                            "resimler":
+                            [
+                                "resim1",
+                                "resim2"
+                            ]
+                        }
+                    ],
+                    "restoranlar":
+                    [
+                        {
+                            "name": "restoran1 ",
+                            "background": "url1",
+                            "resiler":
+                            [
+                                "resim1",
+                                "resim2"
+                            ]
+                        }
+                    ]
+                },
+                 {
                     "name": "Ayder",
                     "background": "url",
                     "isVisible": true,
