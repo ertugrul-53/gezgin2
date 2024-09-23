@@ -1634,6 +1634,231 @@
             ]
         },
         {
+            "name": "Ankara",
+            "background": "https://raw.githubusercontent.com/ertugrul-53/gezgin2/refs/heads/main/ANKARA/br.jpg",
+            "yerler":
+            [
+                {
+                    "name": "Ayder",
+                    "background": "url",
+                    "isVisible": true,
+                    "hakkında": "güzel",
+                    "resimler":
+                    [
+                        "url1",
+                        "url2",
+                        "url3",
+                        "url4",
+                        "url5",
+                    ],
+                    "oteller":
+                    [
+                        {
+                            "name": "otel a",
+                            "background": "resim ",
+                            "resimler":
+                            [
+                                "resim1",
+                                "resim2"
+                            ]
+                        }
+                    ],
+                    "restoranlar":
+                    [
+                        {
+                            "name": "restoran1 ",
+                            "background": "url1",
+                            "resiler":
+                            [
+                                "resim1",
+                                "resim2"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Kızkalesi",
+                    "background": "url",
+                    "isVisible": true,
+                    "hakkında": "güzel",
+                    "resimler":
+                    [
+                        "url1",
+                        "url2",
+                        "url3"
+                    ],
+                    "oteller":
+                    [
+                        {
+                            "name": "otel a",
+                            "background": "resim ",
+                            "resimler":
+                            [
+                                "resim1",
+                                "resim2"
+                            ]
+                        }
+                    ],
+                    "restoranlar":
+                    [
+                        {
+                            "name": "restoran1 ",
+                            "background": "url1",
+                            "resiler":
+                            [
+                                "resim1",
+                                "resim2"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Ayder",
+                    "background": "url",
+                    "isVisible": true,
+                    "hakkında": "güzel",
+                    "resimler":
+                    [
+                        "url1",
+                        "url2",
+                        "url3"
+                    ],
+                    "oteller":
+                    [
+                        {
+                            "name": "otel a",
+                            "background": "resim ",
+                            "resimler":
+                            [
+                                "resim1",
+                                "resim2"
+                            ]
+                        }
+                    ],
+                    "restoranlar":
+                    [
+                        {
+                            "name": "restoran1 ",
+                            "background": "url1",
+                            "resiler":
+                            [
+                                "resim1",
+                                "resim2"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Ayder",
+                    "background": "url",
+                    "isVisible": true,
+                    "hakkında": "güzel",
+                    "resimler":
+                    [
+                        "url1",
+                        "url2",
+                        "url3"
+                    ],
+                    "oteller":
+                    [
+                        {
+                            "name": "otel a",
+                            "background": "resim ",
+                            "resimler":
+                            [
+                                "resim1",
+                                "resim2"
+                            ]
+                        }
+                    ],
+                    "restoranlar":
+                    [
+                        {
+                            "name": "restoran1 ",
+                            "background": "url1",
+                            "resiler":
+                            [
+                                "resim1",
+                                "resim2"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Ayder",
+                    "background": "url",
+                    "isVisible": true,
+                    "hakkında": "güzel",
+                    "resimler":
+                    [
+                        "url1",
+                        "url2",
+                        "url3"
+                    ],
+                    "oteller":
+                    [
+                        {
+                            "name": "otel a",
+                            "background": "resim ",
+                            "resimler":
+                            [
+                                "resim1",
+                                "resim2"
+                            ]
+                        }
+                    ],
+                    "restoranlar":
+                    [
+                        {
+                            "name": "restoran1 ",
+                            "background": "url1",
+                            "resiler":
+                            [
+                                "resim1",
+                                "resim2"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Ayder",
+                    "background": "url",
+                    "isVisible": true,
+                    "hakkında": "güzel",
+                    "resimler":
+                    [
+                        "url1",
+                        "url2",
+                        "url3"
+                    ],
+                    "oteller":
+                    [
+                        {
+                            "name": "otel a",
+                            "background": "resim ",
+                            "resimler":
+                            [
+                                "resim1",
+                                "resim2"
+                            ]
+                        }
+                    ],
+                    "restoranlar":
+                    [
+                        {
+                            "name": "restoran1 ",
+                            "background": "url1",
+                            "resiler":
+                            [
+                                "resim1",
+                                "resim2"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "name": "2",
             "background": "url1",
             "yerler":
