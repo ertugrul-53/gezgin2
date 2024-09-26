@@ -1635,8 +1635,8 @@
             "yerler":
             [
                 {
-                    "name": "Ayder",
-                    "background": "url",
+                    "name": "Anıtkabir",
+                    "background": "https://raw.githubusercontent.com/ertugrul-53/gezgin2/refs/heads/main/ANKARA/An%C4%B1tkabir/br.jpg",
                     "isVisible": true,
                     "hakkında": "güzel",
                     "resimler":
